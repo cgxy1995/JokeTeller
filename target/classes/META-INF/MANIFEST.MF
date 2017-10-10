@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: JokeTeller
+Implementation-Version: 1.0.0
+Built-By: Jiang
+Implementation-Vendor-Id: com.kamijou
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/JokeTeller/
+Created-By: Maven Integration for Eclipse
+
