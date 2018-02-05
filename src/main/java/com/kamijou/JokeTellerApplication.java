@@ -10,3 +10,4 @@ public class JokeTellerApplication {
 		SpringApplication.run(JokeTellerApplication.class, args);
 	}
 }
+//this  line means success
