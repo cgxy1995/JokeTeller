@@ -4,13 +4,13 @@ package com.kamijou.entities;
  * Created by njiang on 2/6/2018.
  */
 public class Joke {
-    String joke;
+    private String jokeString;
 
-    public String getJoke() {
-        return joke;
+    public String getJokeString() {
+        return jokeString;
     }
 
-    public void setJoke(String joke) {
-        this.joke = joke;
+    public void setJoke(String jokeString) {
+        this.jokeString = jokeString;
     }
 }
